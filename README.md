@@ -9,3 +9,7 @@ Japan, specifically the cities I would be staying in -- Tokyo, Kyoto and Osaka.
 
 The dataset comes from [Hostel World](https://www.hostelworld.com/)
 
+
+## HTML
+
+I've also included a `html` output in case the `.ipynb` notebook doesn't render on Github.
