@@ -10,6 +10,6 @@ Japan, specifically the cities I would be staying in -- Tokyo, Kyoto and Osaka.
 The dataset comes from [Hostel World](https://www.hostelworld.com/)
 
 
-## HTML
+## Demo
 
-I've also included a `html` output in case the `.ipynb` notebook doesn't render on Github.
+If the notebook doesn't render on Github, view it [here](https://nbviewer.jupyter.org/github/tangarts/hostel-world-jp/blob/master/japan-hostel.ipynb)
